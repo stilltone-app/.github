@@ -16,14 +16,12 @@ Stilltone records your calls without a bot, writes a live transcript and the not
 across meetings: decisions (and what later replaced them), action items that stay open until they're done, and what
 changed since last time. Every item links to the moment it was said.
 
-| | |
-|---|---|
-| **No bot** | Records your Mac's audio and your microphone, so it works with any call app and nobody new joins the meeting. |
-| **On your Mac** | Speech recognition, notes and memory run on-device. Once the models are downloaded, it works offline. No account. |
-| **Live, in 28 languages** | A streaming transcript as people speak, then a more accurate pass after the call (about 100 languages). |
-| **Memory across meetings** | A running record per project, person or recurring meeting that each new meeting updates. |
-| **Plain files** | Every meeting is a folder of Markdown and JSON. Obsidian export with frontmatter, tasks and backlinks. |
-| **Works with AI apps** | A local MCP server with 21 tools for Claude, Cursor and other MCP clients. |
+- **No bot.** Records your Mac's audio and your microphone, so it works with any call app and nobody new joins the meeting.
+- **On your Mac.** Speech recognition, notes and memory run on-device. Once the models are downloaded, it works offline. No account.
+- **Live, in 28 languages.** A streaming transcript as people speak, then a more accurate pass after the call (about 100 languages).
+- **Memory across meetings.** A running record per project, person or recurring meeting that each new meeting updates.
+- **Plain files.** Every meeting is a folder of Markdown and JSON. Obsidian export with frontmatter, tasks and backlinks.
+- **Works with AI apps.** A local MCP server with 21 tools for Claude, Cursor and other MCP clients.
 
 ### Open-source companions
 
